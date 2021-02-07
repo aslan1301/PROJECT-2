@@ -48,6 +48,7 @@ Song lyrics from 6 musical genres (csv)
 * need help :)
 
 Data on Songs from Billboard 1999-2019 (csv)
+![Images/weekly rank.PNG](Images/weekly rank.PNG)
 *  need help:)
 * 
 
