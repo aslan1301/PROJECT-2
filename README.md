@@ -51,17 +51,17 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 
 <ins> Data on Songs from Billboard 1999-2019 (csv)</ins>
 
-*  We narrowed down columns from the initial dataframe, sorted a new Billboard dataframe by: Artists, Name, Weekly.rank, Weeks.on.chart, Date, Genre:
+*  We first narrowed down columns from the initial dataframe, sorted a new Billboard dataframe by: Artists, Name, Weekly.rank, Weeks.on.chart, Date, Genre:
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Billboard2.PNG?raw=true)
 
-* Cleaned up the dataframe and dropped two columns to create our final table:
+* Then we cleaned up the dataframe and dropped two columns to create our final table:
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Billboard%203.PNG?raw=true)
 
 
 
 ### Transforming of seperate csv files.
 
-* We merged the Spotify and the Billboard data csv files:
+* We merged the final Spotify and the Billboard data csv files:
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/merged.PNG?raw=true)
 * After merging the Spotify and Billboard csv files, many rows had duplicates for various columns; 
 	* We figured this was because there were different tracks of the same song released as compilation efforts or released on different dates.
