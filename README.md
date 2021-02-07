@@ -21,6 +21,8 @@ Members: Laurel, Mercan, David, Luke
 
 Our teams purpose on completing this project was based on songs that were most popular through the past years. We gathered data to see the most often songs that people listened to on the Spotify and Billboard music apps  Our team members did a fantastic job by coming up with different strategies to clean, join, filter and manipulate data. Take a peek!
 
+
+
 ### Sources of data:
 
 Kaggle-  Spotify Dataset 1921-2020, 160k+ Tracks (csv)
@@ -54,14 +56,20 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 *  need help:)
 * 
 
+
+
 ### Transforming of seperate csv files.
 * 
+
+
 
 
 
 ### Type of final production database data is loaded into:
 
 We used a relational database (PostgreSQL) to link and...
+
+
 
 ### Final conclusion 
 
