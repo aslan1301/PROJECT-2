@@ -19,7 +19,7 @@ Members: Laurel, Mercan, David, Luke
 
 ###  Data on most poopular songs played on Spotify and Billboard though 199-2019
 
-Our teams purpose on completing this project was based on songs that were most popular through the past years. We gathered data to see the most often songs that people listened to on the Spotify and Billboard music apps  Our team members did a fantastic job by coming up with different strategies to clean, join, filter and manipulate data. Take a peak!
+Our teams purpose on completing this project was based on songs that were most popular through the past years. We gathered data to see the most often songs that people listened to on the Spotify and Billboard music apps  Our team members did a fantastic job by coming up with different strategies to clean, join, filter and manipulate data. Take a peek!
 
 ### Sources of data:
 
