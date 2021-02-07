@@ -37,7 +37,10 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 ### Transformation of the data: 
 
 Spotify Dataset 1921-2020, 160k+ Tracks (csv)
-* Created a new dataframe and sorted the data by artists, name, danceability, energy, popularity, year
+* Intial dataframe had 19 columns.
+* Created a new dataframe and sorted the data by artists, name, danceability, energy, popularity, year.
+![Images/Spotify.png](Images/Spotify.png)
+
 * Many rows had duplicates for various columns; we figured this was because there were different tracks of the same song released on different dates...
 
 Song lyrics from 6 musical genres (csv)
