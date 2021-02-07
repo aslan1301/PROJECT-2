@@ -37,7 +37,7 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 ### Transformation of the data: 
 
 Spotify Dataset 1921-2020, 160k+ Tracks (csv)
-* Intial dataframe had 19 columns.
+* Intial dataframe had 19 columns - Eliminated data outside specified timeframe (1999-2019).
 * Created a new dataframe and sorted the data by artists, name, danceability, energy, popularity, year.
 ![Images/Spotify.PNG](Images/Spotify.PNG)
 
