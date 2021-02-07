@@ -36,23 +36,25 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 
 ### Transformation of the data: 
 
-Spotify Dataset 1921-2020, 160k+ Tracks (csv)
+ <ins> Spotify Dataset 1921-2020, 160k+ Tracks (csv) </ins> 
 * Intial dataframe had 19 columns - Eliminated data outside specified timeframe (1999-2019).
 * Created a new dataframe and sorted the data by artists, name, danceability, energy, popularity, year.
 ![Images/Spotify.PNG](Images/Spotify.PNG)
 
 * Many rows had duplicates for various columns; we figured this was because there were different tracks of the same song released on different dates...
 
-Song lyrics from 6 musical genres (csv)
+<ins> Song lyrics from 6 musical genres (csv) </ins> 
 * We had to do some manipulations to create queries that will allow for some "keywords" to show in a list of stopwords created..
 * need help :)
 
-Data on Songs from Billboard 1999-2019 (csv)
+<ins> Data on Songs from Billboard 1999-2019 (csv)</ins>
+
+
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/weekly%20rank.PNG?raw=true)
 *  need help:)
 * 
 
-Transforming of seperate csv files.
+### Transforming of seperate csv files.
 * 
 
 
