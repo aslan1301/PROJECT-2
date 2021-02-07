@@ -51,9 +51,10 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 
 <ins> Data on Songs from Billboard 1999-2019 (csv)</ins>
 
-
+*  We narrowed down columns from the initial dataframe, sorted a new Billboard dataframe by: Artists, Name, Weekly.rank, Weeks.on.chart, Date, Genre:
+![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Billboard1.PNG?raw=true)
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/weekly%20rank.PNG?raw=true)
-*  need help:)
+
 * 
 
 
