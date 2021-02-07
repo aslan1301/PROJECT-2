@@ -43,8 +43,6 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 * Created a new dataframe and sorted the data by artists, name, danceability, energy, popularity, year.
 ![Images/Spotify.PNG](Images/Spotify.PNG)
 
-* Many rows had duplicates for various columns; we figured this was because there were different tracks of the same song released on different dates...
-
 <ins> Song lyrics from 6 musical genres (csv) </ins> 
 * We had to do some manipulations to create queries that will allow for some "keywords" to show in a list of stopwords created..
 * need help :)
@@ -59,7 +57,8 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 
 
 ### Transforming of seperate csv files.
-* 
+* After merging the Spotify and Billboard csv files, many rows had duplicates for various columns; 
+	* We figured this was because there were different tracks of the same song released as compilation efforts or released on different dates.
 
 
 
