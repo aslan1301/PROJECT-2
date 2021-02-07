@@ -64,7 +64,7 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/merged.PNG?raw=true)
 * After merging the Spotify and Billboard csv files, many rows had duplicates for various columns; 
 	* We figured this was because there were different tracks of the same song released as compilation efforts or released on different dates.
-
+![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Project%20Main.PNG?raw=true)
 
 
 
