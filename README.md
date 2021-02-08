@@ -46,8 +46,12 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 ![Images/Spotify.PNG](Images/Spotify.PNG)
 
 <ins> Song lyrics from 6 musical genres (csv) </ins> 
-* We had to do some manipulations to create queries that will allow for some "keywords" to show in a list of stopwords created..
-* need help :)
+* Used stopword-removing function to eliminate meaningless words in lyrics.
+* This allows us to identify keywords in songs (organized by genre).
+* Creation of a word cloud to illustrate trends in genre lyrics:
+
+![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Screen Shot 2021-02-08 at 6.48.39 PM.PNG?raw=true)
+![Images/Spotify.PNG](Images/Screen Shot 2021-02-08 at 6.48.39 PM.PNG)
 
 <ins> Data on Songs from Billboard 1999-2019 (csv)</ins>
 
