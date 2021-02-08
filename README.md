@@ -54,6 +54,8 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 *  We first narrowed down columns from the initial dataframe, sorted a new Billboard dataframe by: Artists, Name, Weekly.rank, Weeks.on.chart, Date, Genre:
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Billboard2.PNG?raw=true)
 
+* The intial file had multiple artist and genres within a single column. We had to split these out to make the data more user friendly.
+
 * Then we cleaned up the dataframe and dropped two columns to create our final table:
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Billboard%203.PNG?raw=true)
 
