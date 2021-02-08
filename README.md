@@ -50,8 +50,7 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 * This allows us to identify keywords in songs (organized by genre).
 * Creation of a word cloud to illustrate trends in genre lyrics:
 
-![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Screen%20Shot%202021-02-08%20at%206.48.39%20PM.PNG?raw=true)
-![Images/Spotify.PNG](Images/Screen%20Shot%202021-02-08%20at%206.48.39%20PM.PNG)
+![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Screen%20Shot%202021-02-08%20at%206.48.39%20PM.png)
 
 <ins> Data on Songs from Billboard 1999-2019 (csv)</ins>
 
