@@ -46,6 +46,7 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 ![Images/Spotify.PNG](Images/Spotify.PNG)
 
 <ins> Song lyrics from 6 musical genres (csv) </ins> 
+* Took a random sample of 50 songs from data set.
 * Used stopword-removing function to eliminate meaningless words in lyrics.
 * This allows us to identify keywords in songs (organized by genre).
 * Creation of a word cloud to illustrate trends in genre lyrics:
