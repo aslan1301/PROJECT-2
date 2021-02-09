@@ -69,6 +69,9 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 ### Type of final production database data is loaded into:
 
 We used a relational database (PostgreSQL) to link and store our data
+![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Screen%20Shot%202021-02-08%20at%207.27.37%20PM.png)
+
+
 
 ### Limitations:
 
