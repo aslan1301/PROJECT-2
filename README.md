@@ -82,6 +82,10 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 
 We used a relational database (PostgreSQL) to link and...
 
+### Limitations:
+
+* NLP can be tricky - poorly/inconsistently formatted datasets can be a hassle
+	* Would probably extend the list of stopwords - notice that some slipped through filter due to capitalization differences
 
 
 ### Final conclusion 
