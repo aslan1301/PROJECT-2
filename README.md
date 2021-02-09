@@ -26,14 +26,14 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 
 ### Transformation of the data: 
 
- <ins> Spotify Dataset 1921-2020, 160k+ Tracks (csv) - Notebook Clean Spotify.ipynb</ins> 
+ <ins> Spotify Dataset 1921-2020, 160k+ Tracks (csv)</ins>  - Notebook Clean Spotify.ipynb
 * Intial dataframe had 19 columns - Eliminated data outside specified timeframe (1999-2019).
 * Created a new dataframe and sorted the data by artists, name, danceability, energy, popularity, year:
 
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Spotify2.PNG?raw=true)
 ![Images/Spotify.PNG](Images/Spotify.PNG)
 
-<ins> Song lyrics from 6 musical genres (csv) - Notebook final_lyrics.ipynb</ins> 
+<ins> Song lyrics from 6 musical genres (csv)</ins>  - Notebook final_lyrics.ipynb
 * Took a random sample of 50 songs from data set.
 * Used stopword-removing function to eliminate meaningless words in lyrics.
 * This allows us to identify keywords in songs (organized by genre).
@@ -41,7 +41,7 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Screen%20Shot%202021-02-08%20at%206.48.39%20PM.png)
 
-<ins> Data on Songs from Billboard 1999-2019 (csv) - Notebook Billboard_Data.ipynb</ins>
+<ins> Data on Songs from Billboard 1999-2019 (csv)</ins>  - Notebook Billboard_Data.ipynb
 
 *  We first narrowed down columns from the initial dataframe, sorted a new Billboard dataframe by: Artists, Name, Weekly.rank, Weeks.on.chart, Date, Genre:
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Billboard2.PNG?raw=true)
