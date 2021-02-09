@@ -1,15 +1,3 @@
-Side notes to delete when file is complete 
-#what data did you collect
-11:50
-#what's its purpose
-11:50
-#how did you clean it
-11:50
-#what's the table structure
-11:50
-#get it into sql
-
-
 
 
 # PROJECT-2
@@ -80,7 +68,7 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 
 ### Type of final production database data is loaded into:
 
-We used a relational database (PostgreSQL) to link and...
+We used a relational database (PostgreSQL) to link and store our data
 
 ### Limitations:
 
@@ -90,13 +78,13 @@ We used a relational database (PostgreSQL) to link and...
 
 ### Final conclusion 
 
-* We believe this final data could be used for many different purposes.
+* We believe this final data could be used for many different purposes
 	* 1. The data could simply be used to investigate trend in popluar music. This could be by genre, year, artist etc. 
 	
-	* 2. Songwriters could use this data to analyse popular lyrics to help write new songs.
+	* 2. Songwriters could use this data to analyse popular lyrics to help write new songs
 	
-	* 3. People can use this data to play songs according to liveness, danceability etc. at events like weddings or birthdays. 
+	* 3. People can use this data to play songs according to liveness, danceability etc. at events like weddings or birthdays
 	
-	* 4. Companies could use data like this in marketing to use songs that have certain words that encourage activities. An example would be enhancing	   	    activity at gyms or shopping in stores.
+	* 4. Companies could use data like this in marketing to use songs that have certain words that encourage activities. An example would be enhancingactivity at gyms or shopping in stores.
 	
 	* 5. Schools can use this way of data analytics to come up with kids songs for educational purposes.
