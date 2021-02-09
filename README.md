@@ -33,7 +33,7 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Spotify2.PNG?raw=true)
 ![Images/Spotify.PNG](Images/Spotify.PNG)
 
-<ins> Song lyrics from 6 musical genres (csv) </ins> 
+<ins> Song lyrics from 6 musical genres (csv) - Notebook final_lyrics.ipynb</ins> 
 * Took a random sample of 50 songs from data set.
 * Used stopword-removing function to eliminate meaningless words in lyrics.
 * This allows us to identify keywords in songs (organized by genre).
