@@ -90,4 +90,9 @@ We used a relational database (PostgreSQL) to link and...
 
 ### Final conclusion 
 
-
+We believe this final data could be used for many different purposes.
+	1. The data could simply be used to investigate trend in popluar music. This could be by genre, year, artist etc. 
+	2. Songwriters could use this data to analyse popular lyrics to help write new songs.
+	3. People can use this data to play songs according to liveness, danceability etc. at events like weddings or birthdays. 
+	4. Companies could use data like this in marketing to use songs that have certain words that encourage acttivities. An example would be enhancing	   	    activity at gyms or shopping in stores.
+	5. Schools can use this way of data analytics to come up with kids songs for educational purposes.
