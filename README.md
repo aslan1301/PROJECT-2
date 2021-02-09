@@ -26,7 +26,7 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 
 ### Transformation of the data: 
 
- <ins> Spotify Dataset 1921-2020, 160k+ Tracks (csv) </ins> 
+ <ins> Spotify Dataset 1921-2020, 160k+ Tracks (csv) - Notebook Clean Spotify.ipynb</ins> 
 * Intial dataframe had 19 columns - Eliminated data outside specified timeframe (1999-2019).
 * Created a new dataframe and sorted the data by artists, name, danceability, energy, popularity, year:
 
@@ -41,7 +41,7 @@ https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
 
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Screen%20Shot%202021-02-08%20at%206.48.39%20PM.png)
 
-<ins> Data on Songs from Billboard 1999-2019 (csv)</ins>
+<ins> Data on Songs from Billboard 1999-2019 (csv) - Notebook Billboard_Data.ipynb</ins>
 
 *  We first narrowed down columns from the initial dataframe, sorted a new Billboard dataframe by: Artists, Name, Weekly.rank, Weeks.on.chart, Date, Genre:
 ![name-of-you-image](https://github.com/aslan1301/PROJECT-2/blob/main/Images/Billboard2.PNG?raw=true)
